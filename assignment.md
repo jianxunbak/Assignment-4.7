@@ -7,11 +7,8 @@ In this assignment, we will explore other aspects of secret management. Spend so
 | Question | Answer |
 | -------- | ------ |
 
-|1. Never store secret in git. Why?
-|
-a. Private repositories are high value targets for hackers as it is common for people to keep secrets in there
-b. Repositories can get forked, cloned into new machines and the secrets, the repo history, will be accessile.
-|
+|1. Never store secret in git. Why?|a. Private repositories are high value targets for hackers as it is common for people to keep secrets in there
+b. Repositories can get forked, cloned into new machines and the secrets, the repo history, will be accessile.|
 |2. How can you ensure no secret is being stored accidentally on git?
 
 |
